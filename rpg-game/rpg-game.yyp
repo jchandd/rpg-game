@@ -37,6 +37,7 @@
   "name":"rpg-game",
   "resources":[
     {"id":{"name":"obj_clear","path":"objects/obj_clear/obj_clear.yy",},},
+    {"id":{"name":"obj_MC","path":"objects/obj_MC/obj_MC.yy",},},
     {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},},
     {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},},
     {"id":{"name":"house","path":"rooms/house/house.yy",},},
