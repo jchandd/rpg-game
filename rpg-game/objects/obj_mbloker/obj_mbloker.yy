@@ -1,9 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_clear",
-  "eventList":[],
+  "%Name":"obj_mbloker",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"Object1","path":"objects/Object1/Object1.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_clear",
+  "name":"obj_mbloker",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -26,10 +28,10 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
-    "name":"spr_nextroom",
-    "path":"sprites/spr_nextroom/spr_nextroom.yy",
+    "name":"spr_mblock",
+    "path":"sprites/spr_mblock/spr_mblock.yy",
   },
   "spriteMaskId":null,
   "visible":true,
