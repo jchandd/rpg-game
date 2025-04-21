@@ -13,5 +13,12 @@ spd = 0;
 /// @DnDAction : YoYo Games.Instance Variables.Set_Health
 /// @DnDVersion : 1
 /// @DnDHash : 1130315D
-/// @DnDArgument : "health" "3"
-__dnd_health = real(3);
+/// @DnDArgument : "health" "-10"
+__dnd_health = real(-10);
+
+/// @DnDAction : YoYo Games.Instance Variables.If_Health
+/// @DnDVersion : 1
+/// @DnDHash : 6FB0F834
+/// @DnDArgument : "value" "50"
+if(!variable_instance_exists(id, "__dnd_health")) __dnd_health = 0;
+if(__dnd_health == 50){}
