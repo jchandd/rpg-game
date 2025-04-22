@@ -28,8 +28,11 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
-  "spriteId":null,
+  "solid":true,
+  "spriteId":{
+    "name":"spr_down3",
+    "path":"sprites/spr_down3/spr_down3.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
