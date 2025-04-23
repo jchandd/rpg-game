@@ -50,6 +50,7 @@
     {"id":{"name":"house","path":"rooms/house/house.yy",},},
     {"id":{"name":"room_boss","path":"rooms/room_boss/room_boss.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"check_for_player","path":"scripts/check_for_player/check_for_player.yy",},},
     {"id":{"name":"Sound1","path":"sounds/Sound1/Sound1.yy",},},
     {"id":{"name":"spr_down","path":"sprites/spr_down/spr_down.yy",},},
     {"id":{"name":"spr_down2","path":"sprites/spr_down2/spr_down2.yy",},},
