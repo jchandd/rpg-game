@@ -15,6 +15,7 @@
     {"$GMFolder":"","%Name":"Fonts","folderPath":"folders/Fonts.yy","name":"Fonts","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Notes","folderPath":"folders/Notes.yy","name":"Notes","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"control_group","folderPath":"folders/Objects/control_group.yy","name":"control_group","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Particle Systems","folderPath":"folders/Particle Systems.yy","name":"Particle Systems","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Paths","folderPath":"folders/Paths.yy","name":"Paths","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Rooms","folderPath":"folders/Rooms.yy","name":"Rooms","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -37,6 +38,7 @@
   },
   "name":"rpg-game",
   "resources":[
+    {"id":{"name":"o_game","path":"objects/o_game/o_game.yy",},},
     {"id":{"name":"obj_blocker","path":"objects/obj_blocker/obj_blocker.yy",},},
     {"id":{"name":"obj_Boss","path":"objects/obj_Boss/obj_Boss.yy",},},
     {"id":{"name":"obj_clear","path":"objects/obj_clear/obj_clear.yy",},},
@@ -48,6 +50,7 @@
     {"id":{"name":"house","path":"rooms/house/house.yy",},},
     {"id":{"name":"room_boss","path":"rooms/room_boss/room_boss.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"check_for_player","path":"scripts/check_for_player/check_for_player.yy",},},
     {"id":{"name":"Sound1","path":"sounds/Sound1/Sound1.yy",},},
     {"id":{"name":"spr_down","path":"sprites/spr_down/spr_down.yy",},},
     {"id":{"name":"spr_down2","path":"sprites/spr_down2/spr_down2.yy",},},
