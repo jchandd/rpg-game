@@ -15,6 +15,6 @@ show_debug_message(string(hp));
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 32151B0A
-/// @DnDArgument : "expr" "x-200"
+/// @DnDArgument : "expr" "x-100"
 /// @DnDArgument : "var" "x"
-x = x-200;
+x = x-100;

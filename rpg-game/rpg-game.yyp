@@ -34,7 +34,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.13.1.193",
+    "IDEVersion":"2024.13.0.190",
   },
   "name":"rpg-game",
   "resources":[
@@ -46,9 +46,11 @@
     {"id":{"name":"obj_mbloker","path":"objects/obj_mbloker/obj_mbloker.yy",},},
     {"id":{"name":"obj_MC","path":"objects/obj_MC/obj_MC.yy",},},
     {"id":{"name":"Object8","path":"objects/Object8/Object8.yy",},},
+    {"id":{"name":"Object9","path":"objects/Object9/Object9.yy",},},
     {"id":{"name":"house","path":"rooms/house/house.yy",},},
     {"id":{"name":"room_boss","path":"rooms/room_boss/room_boss.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"boss_sound","path":"sounds/boss_sound/boss_sound.yy",},},
     {"id":{"name":"Sound1","path":"sounds/Sound1/Sound1.yy",},},
     {"id":{"name":"spr_down","path":"sprites/spr_down/spr_down.yy",},},
     {"id":{"name":"spr_down2","path":"sprites/spr_down2/spr_down2.yy",},},
